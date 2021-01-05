@@ -10,3 +10,15 @@ The various `.pdf` files contain figures as included in the manuscript.
 
 For questions about the statistical analysis, you can contact Jeroen van Paridon (vanparidon@wisc.edu)  
 For other questions about the manuscript, you can contact the corresponding author, Falk Huettig (falk.huettig@mpi.nl)  
+
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
