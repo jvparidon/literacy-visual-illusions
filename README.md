@@ -1,5 +1,5 @@
 # literacy-visual-illusions
-Data and code accompanying "Literacy effect in visual illusion perception is itself a statistical illusion." (Manuscript in preparation)
+Data and code accompanying "Do illiterates have illusions? A conceptual (non)replication of Luria (1976)" (in press at the Journal of Cultural Cognitive Science)
 
 ## Files
 `illusions.ipynb` contains the Jupyter notebook in which the statistical analysis was conducted. This notebook is fully reproducible with the data and code included in this repository. All you need to do is clone the repo, run the Jupyter notebook, and execute all the cells in order.  
@@ -9,7 +9,6 @@ Data and code accompanying "Literacy effect in visual illusion perception is its
 The various `.pdf` files contain figures as included in the manuscript.  
 
 For questions about the statistical analysis, you can contact Jeroen van Paridon (vanparidon@wisc.edu)  
-For other questions about the manuscript, you can contact the corresponding author, Falk Huettig (falk.huettig@mpi.nl)  
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
