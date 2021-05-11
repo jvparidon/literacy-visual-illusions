@@ -1,0 +1,50 @@
+block	randomize	Trialnumber	type	IllusionType	Condition	Picture	Question_display1	keyboard	key	title	trialAudio	presTime	ITI	answer_type	keypress	RT	ACC	t	literate	number
+1		23	test	ambiguous	illusion	Kaniza.png	Can you notice one triangle?	2 minus	2		kaniza1.wav	5000	500	yes-no	2	6.211694813056965	1	11.4535467045298	y	15
+1		24	test	ambiguous	illusion	Kaniza.png	Can you notice another triangle?	2 minus	2		kaniza2.wav	5000	500	yes-no	2	7.5966564714017295	1	19.571720617292158	y	15
+2	yes	15	test	shape	illusion	shepardtable.png	Do the red shapes have the same size?	2 minus	2		shepardtableQC.wav	5000	500	yes-no	minus	5.996345345592999	0	26.088497422008004	y	15
+2	yes	42	test	shape	control	sheperdtable_control.png	Do the red shapes have the same size?	2 minus	2		shepardtableQC.wav	5000	500	yes-no	2	3.79645734764199	1	30.40595839553498	y	15
+2	yes	43	test	shape	control	amodal_control.png	Are the black rectangles having different sizes?	2 minus	minus		amodalC.wav	5000	500	yes-no	2	6.6126864607176685	0	37.53776989495236	y	15
+2	yes	48	test	colour	control	saturation_control.png	Do the squares have different colour?	2 minus	minus		saturatedC.wav	5000	500	yes-no	minus	5.214896029357988	1	43.272735524424206	y	15
+2	yes	34	test	shape	control	jastrow_control.png	Are both the figures of same size?	2 minus	2		jastrowQC.wav	5000	500	yes-no	2	4.0423751890321	1	47.83888602535444	y	15
+2	yes	19	test	colour	illusion	White.png	Do the horizontal bars have different colours?	2 minus	minus		whiteQC.wav	5000	500	yes-no	2	10.933637165229811	0	59.29624015119589	y	15
+2	yes	33	test	shape	control	ponzo_control.png	Are the two horizontal lines of different length?	2 minus	minus		ponzoQC.wav	5000	500	yes-no	minus	10.506866811572763	1	70.31866690007155	y	15
+2	yes	36	test	shape	control	ehrensein_control.png	Are the lines of the square straight?	2 minus	2		ehrenseinQC.wav	5000	500	yes-no	minus	6.966832157391764	0	77.81339178187045	y	15
+2	yes	22	test	colour	illusion	cyan_square.png	Do the circles inside and outside the square have different colours?	2 minus	minus		cyansquareQC.wav	5000	500	yes-no	2	6.810924008799702	0	85.1367729794656	y	15
+2	yes	1	test	shape	illusion	mullerlyer.png	Are the two lines of same length?	2 minus	2		mullerlyerQC.wav	5000	500	yes-no	minus	4.794423967465264	0	90.47244239026259	y	15
+2	yes	5	test	shape	illusion	jastrow.png	Do the two figures have same size?	2 minus	2		jastrowQC.wav	5000	500	yes-no	minus	3.6236666326276463	0	94.61792429893467	y	15
+2	yes	14	test	shape	illusion	Oppel-kundt.png	Is the third lines from the right the middlemost line?	2 minus	2		oppelkundtQ.wav	5000	500	yes-no	2	16.683530593090836	1	111.82897035916903	y	15
+2	yes	38	test	shape	control	orbison_control.png	Does the red figure look like an elongated square?	2 minus	minus		orbisonQC.wav	5000	500	yes-no	2	18.76111713534192	0	131.10547805100214	y	15
+2	yes	11	test	shape	illusion	verticalhorizontal.png	Do the vertical and horizontal lines have different length?	2 minus	minus		verticalhorizontalQ.wav	5000	500	yes-no	2	8.834238588675362	0	140.47925895489607	y	15
+2	yes	49	test	colour	control	cyan_square_control.png	Do the circles inside and outside the square have different colours?	2 minus	minus		cyansquareC.wav	5000	500	yes-no	minus	4.070135812613444	1	145.08060460035085	y	15
+2	yes	9	test	shape	illusion	Orbison.png	Does the red figure look like an elongated square?	2 minus	minus		orbisonQC.wav	5000	500	yes-no	2	10.668366553043597	0	156.27856660069847	y	15
+2	yes	17	test	colour	illusion	checkerboard.png	Do the boxes pointed by arrows have the same colour?	2 minus	2		checkerboard.wav	5000	500	yes-no	minus	6.806387196431388	0	163.63291814773584	y	15
+2	yes	10	test	shape	illusion	sanders.png	Are the blue lines of the same length?	2 minus	2		sanderQC.wav	5000	500	yes-no	minus	8.951598419977017	0	173.09455015211825	y	15
+2	yes	20	test	colour	illusion	Whitedottedline.png	Do the squares have different colour?	2 minus	minus		whitedottedlineQ.wav	5000	500	yes-no	2	6.647251492415307	0	180.2585642666454	y	15
+2	yes	12	test	shape	illusion	Giovanelli.png	Are the two dots at the same height?	2 minus	2		giovanelliQC.wav	5000	500	yes-no	2	8.172576355085766	1	188.9648433511138	y	15
+2	yes	30	test	ambiguous	illusion	husbandFIL.png	What do you see?	2 minus			ambiguious.wav	30000	500	spoken				216.11806977192828	y	15
+2	yes	4	test	shape	illusion	Ponzo.png	Are the two horizontal lines of different length?	2 minus	minus		ponzoQC.wav	5000	500	yes-no	2	5.99659860637621	0	222.65648396231154	y	15
+2	yes	2	test	shape	illusion	Poggendoff.png	Will the black line behind the grey bar meet the blue line?	2 minus	minus		poggendoffQ.wav	5000	500	yes-no	2	12.805046737757948	0	235.99908299335584	y	15
+2	yes	45	test	colour	control	cornsweet_control.png	Do the two rectangles have the same colour?	2 minus	2		cornsweetC.wav	5000	500	yes-no	minus	6.125332480756697	0	242.66845732170805	y	15
+2	yes	37	test	shape	control	Hering_control.png	Are the red lines bent?	2 minus	minus		heringQC.wav	5000	500	yes-no	minus	4.962617897959717	1	248.17204633091933	y	15
+2	yes	21	test	colour	illusion	saturationcontrast.png	Do the two small boxes have the same colour?	2 minus	2		saturationcontrastQ.wav	5000	500	yes-no	minus	6.6087866498746735	0	255.29994383688972	y	15
+2	yes	3	test	shape	illusion	ebbinghaus.png	Are the orange circles of the same size?	2 minus	2		ebbinghausQC.wav	5000	500	yes-no	minus	10.022075425518779	0	265.8659140161417	y	15
+2	yes	35	test	shape	control	delbouef_control.png	Do the two black circles have different sizes?	2 minus	minus		delbouefQC.wav	5000	500	yes-no	minus	9.055276495941143	1	275.4485783357886	y	15
+2	yes	31	test	shape	control	Mullerlyer_control.png	are the lines of same length?	2 minus	2		mullerlyerQC.wav	5000	500	yes-no	2	6.660270717542517	1	282.636809449019	y	15
+2	yes	32	test	shape	control	ebbinghaus_control.png	are the circles of the same size?	2 minus	2		ebbinghausQC.wav	5000	500	yes-no	2	5.086658140895452	1	288.24507296341835	y	15
+2	yes	27	test	ambiguous	illusion	DuckRabbit.png	What do you see? 	2 minus			ambiguious.wav	30000	500	spoken				315.70770544920015	y	15
+2	yes	39	test	shape	control	sander_control.png	Are the blue lines of the same length?	2 minus	2		sanderQC.wav	5000	500	yes-no	2	4.041417660664592	1	320.2838352354229	y	15
+2	yes	18	test	colour	illusion	cornsweet.png	Do the two rectangles on the side of the black bar have the same colour?	2 minus	2		cornsweetQ.wav	5000	500	yes-no	2	6.232067110460775	1	327.0408313113003	y	15
+2	yes	41	test	shape	control	Bourdon_control.png	Are the lines of the right side of the triangles bent?	2 minus	minus		bourdonC.wav	5000	500	yes-no	minus	3.339491014712621	1	330.9155624496525	y	15
+2	yes	46	test	colour	control	white_control.png	Do the horizontal bars have different colours?	2 minus	minus		WhitesC.wav	5000	500	yes-no	minus	6.0533780531095545	1	337.4948529304511	y	15
+2	yes	26	test	ambiguous	illusion	Rubinsvase.png	What do you see?	2 minus			ambiguious.wav	30000	500	spoken				364.9267979084307	y	15
+2	yes	6	test	shape	illusion	Delboeuf.png	Do the two black circles have different sizes?	2 minus	minus		delbouefQC.wav	5000	500	yes-no	minus	4.800699972283837	1	370.25989662097527	y	15
+2	yes	47	test	colour	control	whitesdottedline_control.png	Do the squares have different colour?	2 minus	minus		whitesdottedC.wav	5000	500	yes-no	minus	4.595822534294712	1	375.387116603697	y	15
+2	yes	13	test	shape	illusion	bourdon.png	Are the lines of the right side of the triangles bent?	2 minus	minus		bourdonQC.wav	5000	500	yes-no	minus	8.453132572498362	1	384.37822978411714	y	15
+2	yes	25	test	ambiguous	illusion	wifeMIL.png	What do you see?	2 minus			ambiguious.wav	30000	500	spoken				411.81691433545166	y	15
+2	yes	7	test	shape	illusion	Ehrenstein.png	Are the lines of the square straight?	2 minus	2		ehrenseinQC.wav	5000	500	yes-no	2	13.168679380762114	1	425.5063335456671	y	15
+2	yes	44	test	colour	control	checkerboard_control.png	Do the two boxes have same colour?	2 minus	2		CheckerboardC.wav	5000	500	yes-no	2	4.071076727075706	1	430.10771890241267	y	15
+2	yes	40	test	shape	control	giovanelli_control.png	Are the two dots at the same height?	2 minus	2		giovanelliQC.wav	5000	500	yes-no	2	5.798951865053823	1	436.4250907281439	y	15
+2	yes	16	test	shape	illusion	amodal.png	Are the black rectangles having different sizes?	2 minus	minus		amodalQ.wav	5000	500	yes-no	minus	7.89565655730803	1	444.83744304671563	y	15
+2	yes	8	test	shape	illusion	Hering.png	Are the red lines bent?	2 minus	minus		heringQC.wav	5000	500	yes-no	2	3.5029422824754874	0	448.8772864383518	y	15
+3		28	test	ambiguous	illusion	stairs.png	Are the stairs going from right bottom to left top?	2 minus	2		stairsQ1.wav	5000	500	yes-no	2	12.84552996743696	1	462.252390781794	y	15
+3		29	test	ambiguous	illusion	stairs.png	Can you also see another representation?	2 minus	2		stairs2.wav	5000	500	yes-no	2	15.982860120624537	1	478.7740269518108	y	15
